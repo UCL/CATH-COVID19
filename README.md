@@ -8,14 +8,27 @@ As of now it includes:
 
 ## PATHS to 4.3 FunFams
 
-On the web - ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/
+On the web: 
 
-On the NIS server - /cath/people2/ucbtnb4/funfams-4.3/
+ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/
 
-Example: /cath/people2/ucbtnb4/funfams-4.3/1.20.5.10/
+On the group NIS server: 
+
+```
+/cath/people2/ucbtnb4/funfams-4.3/
+```
+
+Example: 
+
+```
+/cath/people2/ucbtnb4/funfams-4.3/1.20.5.10/
 -seed_alignments
 -full_alignments
+```
+
 In each folder
+
+```
 1.20.5.10-FF-000001.faa		
 1.20.5.10-FF-000001.faa_nogaps	(Unique to seed_alignments for now)
 1.20.5.10-FF-000001.inct_hmm
@@ -23,8 +36,7 @@ In each folder
 .faa - FunFam alignment
 .faa_nogaps - Unaligned FunFam
 .inct_hmm - HMM for the FunFam with inclusion threshold
-
-
+```
 
 ## NCBI: 
 Strains divided by country of origin:
