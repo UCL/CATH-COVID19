@@ -6,7 +6,7 @@ As of now it includes:
  - OrthoMCL clustering results
  - Paths to 4.3 FunFams, both locally and on the web
 
-## PATHS to 4.3 FunFams
+## PATHS to 4.3 FunFams
 
 On the web - ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/
 
