@@ -10,9 +10,7 @@ As of now it includes:
 
 ### 4.3 FunFams
 
-On the web: 
-
-[ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/](ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/)
+On the web: [ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/](ftp://orengoftp.biochem.ucl.ac.uk/ucbtnb4/)
 
 On the group NIS server: 
 
