@@ -6,6 +6,7 @@ As of now it includes:
  - OrthoMCL clustering results
  - HMMER3 scan results (SARS-Cov-2 sequences vs CATH v4.3)
  - Paths to 4.3 FunFams, both locally and on the web
+ - 3D Models from Phyre, DeepMind and I-TASSER
 
 ## HMMER3 Scans
 
