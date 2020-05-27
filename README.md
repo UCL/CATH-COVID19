@@ -10,7 +10,7 @@ As of now it includes:
  
  ### New (27/5/20)
  
- COVID_interactors HMMER3 and cath-resolve-hits results
+ COVID_interactors HMMER3 and cath-resolve-hits results. Results in COVID_interactors and new wikipage [`here`](https://github.com/UCL/CATH-COVID19/wiki/COVID-Interactors)
 
 ## HMMER3 Scans
 
