@@ -1,2 +1,5 @@
 HMMscans/
 .DS_Store
+COVID_interactors/domtblout
+COVID_interactors/full_outout
+.gitignore
