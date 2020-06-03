@@ -7,6 +7,10 @@ As of now it includes:
  - HMMER3 scan results (SARS-Cov-2 sequences vs CATH v4.3)
  - Paths to 4.3 FunFams, both locally and on the web
  - 3D Models from Phyre, DeepMind and I-TASSER
+ 
+ ### New (27/5/20)
+ 
+ COVID_interactors HMMER3 and cath-resolve-hits results. Results in COVID_interactors and new wikipage [`here`](https://github.com/UCL/CATH-COVID19/wiki/COVID-Interactors)
 
 ## HMMER3 Scans
 
