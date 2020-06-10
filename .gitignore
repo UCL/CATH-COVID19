@@ -1,5 +1,8 @@
 HMMscans/
 .DS_Store
+COVID_interactors/domtblout_full_output/
+COVID_strains_spike/full_output
+COVID_strains_spike/domtblout
 COVID_interactors/domtblout
 COVID_interactors/full_outout
 .gitignore
