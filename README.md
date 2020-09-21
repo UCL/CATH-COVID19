@@ -8,9 +8,64 @@ As of now it includes:
  - Paths to 4.3 FunFams, both locally and on the web
  - 3D Models from Phyre, DeepMind and I-TASSER
  
- ### New (27/5/20)
+### Update 21/09/20
  
- COVID_interactors HMMER3 and cath-resolve-hits results. Results in COVID_interactors and new wikipage [`here`](https://github.com/UCL/CATH-COVID19/wiki/COVID-Interactors)
+Collected GISAID proteins for ~104k SARS-CoV-2 strains. Separated into constituent FASTA files and aligned using MAFFT7.
+The 'Original' SARS-CoV-2 strain is always at the top of the alignment.
+ 
+E - 104,669
+
+M - 104,671
+
+N - 104,706
+
+NS3 - 104,737
+
+NS6 - 104,627
+
+NS7a - 104,625
+
+NS7b - 104,613
+
+NS8 - 104,684
+
+NSP1 - 104,578
+
+NSP10 - 104,669
+
+NSP11 - 104,668
+
+NSP12 - 104,750
+
+NSP13 - 104,670
+
+NSP14 - 104,640
+
+NSP15 - 104,628
+
+NSP16 - 104,697
+
+NSP2 - 104,647
+
+NSP3 - 104,643
+
+NSP4 - 104,681
+
+NSP5 - 104,630
+
+NSP6 - 104,629
+
+NSP7 - 104,630
+
+NSP8 - 104,629
+
+NSP9 - 104,630
+
+Spike - 104,979
+ 
+### Update 27/5/20
+ 
+COVID_interactors HMMER3 and cath-resolve-hits results. Results in COVID_interactors and new wikipage [`here`](https://github.com/UCL/CATH-COVID19/wiki/COVID-Interactors)
 
 ## HMMER3 Scans
 
