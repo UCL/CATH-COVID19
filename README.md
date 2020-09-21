@@ -10,7 +10,7 @@ As of now it includes:
  
 ### Update 21/09/20
  
-Collected GISAID proteins for ~104k SARS-CoV-2 strains. Separated into constituent FASTA files and aligned using MAFFT7.
+Collected GISAID proteins for ~104k SARS-CoV-2 strains(2,616,730 sequences). Separated into constituent FASTA files and aligned using MAFFT7.
 The 'Original' SARS-CoV-2 strain is always at the top of the alignment.
  
 E - 104,669
