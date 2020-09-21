@@ -7,6 +7,7 @@ As of now it includes:
  - HMMER3 scan results (SARS-Cov-2 sequences vs CATH v4.3)
  - Paths to 4.3 FunFams, both locally and on the web
  - 3D Models from Phyre, DeepMind and I-TASSER
+ - Alignments with 104k sequences for each of the 25 viral proteins
  
 ### Update 21/09/20
  
