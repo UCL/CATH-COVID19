@@ -1,51 +1,1076 @@
 {
     "sp|P0DTC1|R1A_WCPV": [
-        {"match-id":"3.10.20.350-FF-000001","score":159.5,"score-type":"bitscore","boundaries":[[836,925]],"trimmed":[[841,920]],"resolved":[[836,925]],"aligned-regions":"1-90,836-925","cond-evalue":2.4e-51,"indp-evalue":1.2e-44},
-        {"match-id":"3.40.220.10-FF-000008","score":279.7,"score-type":"bitscore","boundaries":[[1020,1197]],"trimmed":[[1025,1192]],"resolved":[[1020,1197]],"aligned-regions":"5-173,1024-1192","cond-evalue":9.6e-88,"indp-evalue":4.8e-81},
-        {"match-id":"3.40.220.30-FF-000001","score":202.7,"score-type":"bitscore","boundaries":[[1231,1361]],"trimmed":[[1236,1356]],"resolved":[[1231,1361]],"aligned-regions":"1-128,1231-1358","cond-evalue":1.9e-64,"indp-evalue":9.500000000000001e-58},
-        {"match-id":"3.40.220.20-FF-000001","score":237.8,"score-type":"bitscore","boundaries":[[1367,1494]],"trimmed":[[1372,1489]],"resolved":[[1367,1494]],"aligned-regions":"1-128,1367-1494","cond-evalue":2.3e-75,"indp-evalue":1.2e-68},
-        {"match-id":"2.30.30.590-FF-000001","score":105.4,"score-type":"bitscore","boundaries":[[1496,1561]],"trimmed":[[1501,1556]],"resolved":[[1496,1561]],"aligned-regions":"1-44,1496-1539;46-67,1540-1561","cond-evalue":1.1e-34,"indp-evalue":5.500000000000001e-28},
-        {"match-id":"3.10.20.540-FF-000001","score":131.6,"score-type":"bitscore","boundaries":[[1563,1620]],"trimmed":[[1568,1615]],"resolved":[[1563,1620]],"aligned-regions":"1-58,1563-1620","cond-evalue":7e-43,"indp-evalue":3.5e-36},
-        {"match-id":"1.10.8.1190-FF-000001","score":238.0,"score-type":"bitscore","boundaries":[[1621,1744]],"trimmed":[[1626,1739]],"resolved":[[1621,1744]],"aligned-regions":"1-123,1621-1743","cond-evalue":1.9e-75,"indp-evalue":9.3e-69},
-        {"match-id":"3.90.70.90-FF-000001","score":261.7,"score-type":"bitscore","boundaries":[[1745,1888]],"trimmed":[[1750,1883]],"resolved":[[1745,1888]],"aligned-regions":"1-143,1745-1887","cond-evalue":1.8e-82,"indp-evalue":8.900000000000001e-76},
-        {"match-id":"3.40.50.11020-FF-000001","score":228.6,"score-type":"bitscore","boundaries":[[1906,2021]],"trimmed":[[1911,2016]],"resolved":[[1906,2021]],"aligned-regions":"1-116,1906-2021","cond-evalue":1.5e-72,"indp-evalue":7.3e-66},
-        {"match-id":"1.10.150.420-FF-000001","score":158.7,"score-type":"bitscore","boundaries":[[3169,3263]],"trimmed":[[3174,3258]],"resolved":[[3169,3263]],"aligned-regions":"2-28,3170-3196;29-93,3199-3263","cond-evalue":4.5e-51,"indp-evalue":2.3e-44},
-        {"match-id":"2.40.10.10-FF-000033","score":175.7,"score-type":"bitscore","boundaries":[[3351,3455]],"trimmed":[[3356,3450]],"resolved":[[3351,3455]],"aligned-regions":"14-106,3363-3455","cond-evalue":2.3e-56,"indp-evalue":1.2e-49},
-        {"match-id":"1.10.1840.10-FF-000001","score":172.3,"score-type":"bitscore","boundaries":[[3461,3569]],"trimmed":[[3466,3564]],"resolved":[[3461,3569]],"aligned-regions":"1-50,3461-3510;51-72,3513-3534;73-106,3536-3569","cond-evalue":3.4e-55,"indp-evalue":1.7e-48},
-        {"match-id":"1.10.8.370-FF-000001","score":154.8,"score-type":"bitscore","boundaries":[[3855,3940]],"trimmed":[[3860,3935]],"resolved":[[3855,3940]],"aligned-regions":"1-86,3855-3940","cond-evalue":6.2e-50,"indp-evalue":3.0999999999999997e-43},
-        {"match-id":"2.40.10.290-FF-000001","score":207.6,"score-type":"bitscore","boundaries":[[4042,4140]],"trimmed":[[4047,4135]],"resolved":[[4042,4139]],"aligned-regions":"1-99,4042-4140","cond-evalue":2.2e-66,"indp-evalue":1.1000000000000002e-59},
-        {"match-id":"2.40.10.250-FF-000001","score":195.7,"score-type":"bitscore","boundaries":[[4139,4253]],"trimmed":[[4144,4248]],"resolved":[[4140,4253]],"aligned-regions":"1-25,4139-4163;26-66,4165-4205;67-112,4208-4253","cond-evalue":1.8e-62,"indp-evalue":8.8e-56}
+        {
+            "match-id": "3.10.20.350-FF-000001",
+            "score": 159.5,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    836,
+                    925
+                ]
+            ],
+            "trimmed": [
+                [
+                    841,
+                    920
+                ]
+            ],
+            "resolved": [
+                [
+                    836,
+                    925
+                ]
+            ],
+            "aligned-regions": "1-90,836-925",
+            "cond-evalue": 2.4e-51,
+            "indp-evalue": 1.2e-44
+        },
+        {
+            "match-id": "3.40.220.10-FF-000008",
+            "score": 279.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1020,
+                    1197
+                ]
+            ],
+            "trimmed": [
+                [
+                    1025,
+                    1192
+                ]
+            ],
+            "resolved": [
+                [
+                    1020,
+                    1197
+                ]
+            ],
+            "aligned-regions": "5-173,1024-1192",
+            "cond-evalue": 9.6e-88,
+            "indp-evalue": 4.8e-81
+        },
+        {
+            "match-id": "3.40.220.30-FF-000001",
+            "score": 202.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1231,
+                    1361
+                ]
+            ],
+            "trimmed": [
+                [
+                    1236,
+                    1356
+                ]
+            ],
+            "resolved": [
+                [
+                    1231,
+                    1361
+                ]
+            ],
+            "aligned-regions": "1-128,1231-1358",
+            "cond-evalue": 1.9e-64,
+            "indp-evalue": 9.500000000000001e-58
+        },
+        {
+            "match-id": "3.40.220.20-FF-000001",
+            "score": 237.8,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1367,
+                    1494
+                ]
+            ],
+            "trimmed": [
+                [
+                    1372,
+                    1489
+                ]
+            ],
+            "resolved": [
+                [
+                    1367,
+                    1494
+                ]
+            ],
+            "aligned-regions": "1-128,1367-1494",
+            "cond-evalue": 2.3e-75,
+            "indp-evalue": 1.2e-68
+        },
+        {
+            "match-id": "3.40.30.150-FF-000001",
+            "score": 105.4,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1496,
+                    1561
+                ]
+            ],
+            "trimmed": [
+                [
+                    1501,
+                    1556
+                ]
+            ],
+            "resolved": [
+                [
+                    1496,
+                    1561
+                ]
+            ],
+            "aligned-regions": "1-44,1496-1539;46-67,1540-1561",
+            "cond-evalue": 1.1e-34,
+            "indp-evalue": 5.500000000000001e-28
+        },
+        {
+            "match-id": "3.10.20.540-FF-000001",
+            "score": 131.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1563,
+                    1620
+                ]
+            ],
+            "trimmed": [
+                [
+                    1568,
+                    1615
+                ]
+            ],
+            "resolved": [
+                [
+                    1563,
+                    1620
+                ]
+            ],
+            "aligned-regions": "1-58,1563-1620",
+            "cond-evalue": 7e-43,
+            "indp-evalue": 3.5e-36
+        },
+        {
+            "match-id": "1.10.8.1190-FF-000001",
+            "score": 238.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1621,
+                    1744
+                ]
+            ],
+            "trimmed": [
+                [
+                    1626,
+                    1739
+                ]
+            ],
+            "resolved": [
+                [
+                    1621,
+                    1744
+                ]
+            ],
+            "aligned-regions": "1-123,1621-1743",
+            "cond-evalue": 1.9e-75,
+            "indp-evalue": 9.3e-69
+        },
+        {
+            "match-id": "2.60.120.1680-FF-000001",
+            "score": 261.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1745,
+                    1888
+                ]
+            ],
+            "trimmed": [
+                [
+                    1750,
+                    1883
+                ]
+            ],
+            "resolved": [
+                [
+                    1745,
+                    1888
+                ]
+            ],
+            "aligned-regions": "1-143,1745-1887",
+            "cond-evalue": 1.8e-82,
+            "indp-evalue": 8.900000000000001e-76
+        },
+        {
+            "match-id": "3.40.50.11020-FF-000001",
+            "score": 228.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1906,
+                    2021
+                ]
+            ],
+            "trimmed": [
+                [
+                    1911,
+                    2016
+                ]
+            ],
+            "resolved": [
+                [
+                    1906,
+                    2021
+                ]
+            ],
+            "aligned-regions": "1-116,1906-2021",
+            "cond-evalue": 1.5e-72,
+            "indp-evalue": 7.3e-66
+        },
+        {
+            "match-id": "1.10.150.420-FF-000001",
+            "score": 158.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3169,
+                    3263
+                ]
+            ],
+            "trimmed": [
+                [
+                    3174,
+                    3258
+                ]
+            ],
+            "resolved": [
+                [
+                    3169,
+                    3263
+                ]
+            ],
+            "aligned-regions": "2-28,3170-3196;29-93,3199-3263",
+            "cond-evalue": 4.5e-51,
+            "indp-evalue": 2.3e-44
+        },
+        {
+            "match-id": "2.40.10.10-FF-000033",
+            "score": 175.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3351,
+                    3455
+                ]
+            ],
+            "trimmed": [
+                [
+                    3356,
+                    3450
+                ]
+            ],
+            "resolved": [
+                [
+                    3351,
+                    3455
+                ]
+            ],
+            "aligned-regions": "14-106,3363-3455",
+            "cond-evalue": 2.3e-56,
+            "indp-evalue": 1.2e-49
+        },
+        {
+            "match-id": "1.10.1840.10-FF-000001",
+            "score": 172.3,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3461,
+                    3569
+                ]
+            ],
+            "trimmed": [
+                [
+                    3466,
+                    3564
+                ]
+            ],
+            "resolved": [
+                [
+                    3461,
+                    3569
+                ]
+            ],
+            "aligned-regions": "1-50,3461-3510;51-72,3513-3534;73-106,3536-3569",
+            "cond-evalue": 3.4e-55,
+            "indp-evalue": 1.7e-48
+        },
+        {
+            "match-id": "1.10.8.370-FF-000001",
+            "score": 154.8,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3855,
+                    3940
+                ]
+            ],
+            "trimmed": [
+                [
+                    3860,
+                    3935
+                ]
+            ],
+            "resolved": [
+                [
+                    3855,
+                    3940
+                ]
+            ],
+            "aligned-regions": "1-86,3855-3940",
+            "cond-evalue": 6.2e-50,
+            "indp-evalue": 3.0999999999999997e-43
+        },
+        {
+            "match-id": "3.30.70.3540-FF-000001",
+            "score": 207.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    4042,
+                    4140
+                ]
+            ],
+            "trimmed": [
+                [
+                    4047,
+                    4135
+                ]
+            ],
+            "resolved": [
+                [
+                    4042,
+                    4139
+                ]
+            ],
+            "aligned-regions": "1-99,4042-4140",
+            "cond-evalue": 2.2e-66,
+            "indp-evalue": 1.1000000000000002e-59
+        },
+        {
+            "match-id": "2.40.10.250-FF-000001",
+            "score": 195.7,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    4139,
+                    4253
+                ]
+            ],
+            "trimmed": [
+                [
+                    4144,
+                    4248
+                ]
+            ],
+            "resolved": [
+                [
+                    4140,
+                    4253
+                ]
+            ],
+            "aligned-regions": "1-25,4139-4163;26-66,4165-4205;67-112,4208-4253",
+            "cond-evalue": 1.8e-62,
+            "indp-evalue": 8.8e-56
+        }
     ],
     "sp|P0DTC2|SPIKE_WCPV": [
-        {"match-id":"2.60.120.960-FF-000001","score":334.2,"score-type":"bitscore","boundaries":[[22,309]],"trimmed":[[27,304]],"resolved":[[22,309]],"aligned-regions":"8-9,28-29;12-50,30-68;51-51,74-74;52-125,77-150;126-215,155-244;216-218,249-251;219-273,254-308","cond-evalue":3.1000000000000006e-104,"indp-evalue":3.1e-97},
-        {"match-id":"3.30.70.1840-FF-000001","score":260.5,"score-type":"bitscore","boundaries":[[327,466]],"trimmed":[[332,461]],"resolved":[[327,466]],"aligned-regions":"1-140,327-466","cond-evalue":1.8e-82,"indp-evalue":1.8e-75},
-        {"match-id":"3.30.70.1840-FF-000002","score":81.6,"score-type":"bitscore","boundaries":[[474,530]],"trimmed":[[479,525]],"resolved":[[474,530]],"aligned-regions":"7-10,479-482;11-57,484-530","cond-evalue":1.7000000000000003e-27,"indp-evalue":1.7e-20},
-        {"match-id":"1.20.5.300-FF-000003","score":227.6,"score-type":"bitscore","boundaries":[[901,1042]],"trimmed":[[906,1037]],"resolved":[[901,1042]],"aligned-regions":"1-142,901-1042","cond-evalue":2.6e-72,"indp-evalue":2.6e-65},
-        {"match-id":"1.20.5.790-FF-000001","score":118.0,"score-type":"bitscore","boundaries":[[1165,1212]],"trimmed":[[1170,1207]],"resolved":[[1165,1212]],"aligned-regions":"1-48,1165-1212","cond-evalue":8.699999999999999e-39,"indp-evalue":8.7e-32}
+        {
+            "match-id": "2.60.120.960-FF-000001",
+            "score": 334.2,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    22,
+                    309
+                ]
+            ],
+            "trimmed": [
+                [
+                    27,
+                    304
+                ]
+            ],
+            "resolved": [
+                [
+                    22,
+                    309
+                ]
+            ],
+            "aligned-regions": "8-9,28-29;12-50,30-68;51-51,74-74;52-125,77-150;126-215,155-244;216-218,249-251;219-273,254-308",
+            "cond-evalue": 3.1000000000000006e-104,
+            "indp-evalue": 3.1e-97
+        },
+        {
+            "match-id": "3.30.70.1840-FF-000001",
+            "score": 260.5,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    327,
+                    466
+                ]
+            ],
+            "trimmed": [
+                [
+                    332,
+                    461
+                ]
+            ],
+            "resolved": [
+                [
+                    327,
+                    466
+                ]
+            ],
+            "aligned-regions": "1-140,327-466",
+            "cond-evalue": 1.8e-82,
+            "indp-evalue": 1.8e-75
+        },
+        {
+            "match-id": "3.30.70.1840-FF-000002",
+            "score": 81.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    474,
+                    530
+                ]
+            ],
+            "trimmed": [
+                [
+                    479,
+                    525
+                ]
+            ],
+            "resolved": [
+                [
+                    474,
+                    530
+                ]
+            ],
+            "aligned-regions": "7-10,479-482;11-57,484-530",
+            "cond-evalue": 1.7000000000000003e-27,
+            "indp-evalue": 1.7e-20
+        },
+        {
+            "match-id": "1.20.5.300-FF-000003",
+            "score": 227.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    901,
+                    1042
+                ]
+            ],
+            "trimmed": [
+                [
+                    906,
+                    1037
+                ]
+            ],
+            "resolved": [
+                [
+                    901,
+                    1042
+                ]
+            ],
+            "aligned-regions": "1-142,901-1042",
+            "cond-evalue": 2.6e-72,
+            "indp-evalue": 2.6e-65
+        },
+        {
+            "match-id": "1.20.5.790-FF-000001",
+            "score": 118.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1165,
+                    1212
+                ]
+            ],
+            "trimmed": [
+                [
+                    1170,
+                    1207
+                ]
+            ],
+            "resolved": [
+                [
+                    1165,
+                    1212
+                ]
+            ],
+            "aligned-regions": "1-48,1165-1212",
+            "cond-evalue": 8.699999999999999e-39,
+            "indp-evalue": 8.7e-32
+        }
     ],
     "sp|P0DTC7|NS7A_WCPV": [
-        {"match-id":"2.60.40.1550-FF-000001","score":180.9,"score-type":"bitscore","boundaries":[[14,96]],"trimmed":[[19,91]],"resolved":[[14,96]],"aligned-regions":"1-82,14-95","cond-evalue":2.1000000000000004e-58,"indp-evalue":2.1e-51}
+        {
+            "match-id": "2.60.40.1550-FF-000001",
+            "score": 180.9,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    14,
+                    96
+                ]
+            ],
+            "trimmed": [
+                [
+                    19,
+                    91
+                ]
+            ],
+            "resolved": [
+                [
+                    14,
+                    96
+                ]
+            ],
+            "aligned-regions": "1-82,14-95",
+            "cond-evalue": 2.1000000000000004e-58,
+            "indp-evalue": 2.1e-51
+        }
     ],
     "sp|P0DTD1|R1AB_WCPV": [
-        {"match-id":"3.10.20.350-FF-000001","score":158.8,"score-type":"bitscore","boundaries":[[836,925]],"trimmed":[[841,920]],"resolved":[[836,925]],"aligned-regions":"1-90,836-925","cond-evalue":4e-51,"indp-evalue":2e-44},
-        {"match-id":"3.40.220.10-FF-000008","score":279.0,"score-type":"bitscore","boundaries":[[1020,1197]],"trimmed":[[1025,1192]],"resolved":[[1020,1197]],"aligned-regions":"5-173,1024-1192","cond-evalue":1.6000000000000002e-87,"indp-evalue":8.200000000000001e-81},
-        {"match-id":"3.40.220.30-FF-000001","score":202.0,"score-type":"bitscore","boundaries":[[1231,1361]],"trimmed":[[1236,1356]],"resolved":[[1231,1361]],"aligned-regions":"1-128,1231-1358","cond-evalue":3.2e-64,"indp-evalue":1.6e-57},
-        {"match-id":"3.40.220.20-FF-000001","score":237.0,"score-type":"bitscore","boundaries":[[1367,1494]],"trimmed":[[1372,1489]],"resolved":[[1367,1494]],"aligned-regions":"1-128,1367-1494","cond-evalue":4.0000000000000005e-75,"indp-evalue":2e-68},
-        {"match-id":"2.30.30.590-FF-000001","score":104.6,"score-type":"bitscore","boundaries":[[1496,1561]],"trimmed":[[1501,1556]],"resolved":[[1496,1561]],"aligned-regions":"1-44,1496-1539;46-67,1540-1561","cond-evalue":1.8e-34,"indp-evalue":9.1e-28},
-        {"match-id":"3.10.20.540-FF-000001","score":130.9,"score-type":"bitscore","boundaries":[[1563,1620]],"trimmed":[[1568,1615]],"resolved":[[1563,1620]],"aligned-regions":"1-58,1563-1620","cond-evalue":1.2e-42,"indp-evalue":5.8e-36},
-        {"match-id":"1.10.8.1190-FF-000001","score":237.2,"score-type":"bitscore","boundaries":[[1621,1744]],"trimmed":[[1626,1739]],"resolved":[[1621,1744]],"aligned-regions":"1-123,1621-1743","cond-evalue":3.2e-75,"indp-evalue":1.6e-68},
-        {"match-id":"3.90.70.90-FF-000001","score":261.0,"score-type":"bitscore","boundaries":[[1745,1888]],"trimmed":[[1750,1883]],"resolved":[[1745,1888]],"aligned-regions":"1-143,1745-1887","cond-evalue":3e-82,"indp-evalue":1.5e-75},
-        {"match-id":"3.40.50.11020-FF-000001","score":227.8,"score-type":"bitscore","boundaries":[[1906,2021]],"trimmed":[[1911,2016]],"resolved":[[1906,2021]],"aligned-regions":"1-116,1906-2021","cond-evalue":2.4e-72,"indp-evalue":1.2e-65},
-        {"match-id":"1.10.150.420-FF-000001","score":158.0,"score-type":"bitscore","boundaries":[[3169,3263]],"trimmed":[[3174,3258]],"resolved":[[3169,3263]],"aligned-regions":"2-28,3170-3196;29-93,3199-3263","cond-evalue":7.6e-51,"indp-evalue":3.8e-44},
-        {"match-id":"2.40.10.10-FF-000033","score":175.0,"score-type":"bitscore","boundaries":[[3351,3455]],"trimmed":[[3356,3450]],"resolved":[[3351,3455]],"aligned-regions":"14-106,3363-3455","cond-evalue":3.8999999999999999e-56,"indp-evalue":1.9e-49},
-        {"match-id":"1.10.1840.10-FF-000001","score":171.6,"score-type":"bitscore","boundaries":[[3461,3569]],"trimmed":[[3466,3564]],"resolved":[[3461,3569]],"aligned-regions":"1-50,3461-3510;51-72,3513-3534;73-106,3536-3569","cond-evalue":5.6999999999999998e-55,"indp-evalue":2.9e-48},
-        {"match-id":"1.10.8.370-FF-000001","score":154.1,"score-type":"bitscore","boundaries":[[3855,3940]],"trimmed":[[3860,3935]],"resolved":[[3855,3940]],"aligned-regions":"1-86,3855-3940","cond-evalue":1.0000000000000002e-49,"indp-evalue":5.199999999999999e-43},
-        {"match-id":"2.40.10.290-FF-000001","score":206.8,"score-type":"bitscore","boundaries":[[4042,4140]],"trimmed":[[4047,4135]],"resolved":[[4042,4139]],"aligned-regions":"1-99,4042-4140","cond-evalue":3.6e-66,"indp-evalue":1.8e-59},
-        {"match-id":"2.40.10.250-FF-000001","score":195.0,"score-type":"bitscore","boundaries":[[4139,4253]],"trimmed":[[4144,4248]],"resolved":[[4140,4253]],"aligned-regions":"1-25,4139-4163;26-66,4165-4205;67-112,4208-4253","cond-evalue":2.9999999999999999e-62,"indp-evalue":1.4999999999999999e-55},
-        {"match-id":"3.40.50.300-FF-001139","score":358.1,"score-type":"bitscore","boundaries":[[5578,5750]],"trimmed":[[5583,5745]],"resolved":[[5578,5750]],"aligned-regions":"1-173,5578-5750","cond-evalue":4.3999999999999999e-112,"indp-evalue":4.399999999999999e-105},
-        {"match-id":"3.40.50.300-FF-001105","score":316.0,"score-type":"bitscore","boundaries":[[5766,5924]],"trimmed":[[5771,5919]],"resolved":[[5766,5924]],"aligned-regions":"2-155,5767-5920","cond-evalue":1.8e-99,"indp-evalue":1.8e-92},
-        {"match-id":"2.20.25.360-FF-000001","score":126.3,"score-type":"bitscore","boundaries":[[6451,6515]],"trimmed":[[6456,6510]],"resolved":[[6451,6515]],"aligned-regions":"1-65,6451-6515","cond-evalue":2.0999999999999999e-41,"indp-evalue":2.1e-34},
-        {"match-id":"3.40.50.11580-FF-000001","score":247.4,"score-type":"bitscore","boundaries":[[6516,6641]],"trimmed":[[6521,6636]],"resolved":[[6516,6641]],"aligned-regions":"1-126,6516-6641","cond-evalue":1.4e-78,"indp-evalue":1.4e-71},
-        {"match-id":"3.40.50.150-FF-000162","score":607.2,"score-type":"bitscore","boundaries":[[6799,7096]],"trimmed":[[6804,7091]],"resolved":[[6799,7096]],"aligned-regions":"2-298,6800-7096","cond-evalue":2.6e-187,"indp-evalue":2.6000000000000003e-180}
+        {
+            "match-id": "3.10.20.350-FF-000001",
+            "score": 158.8,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    836,
+                    925
+                ]
+            ],
+            "trimmed": [
+                [
+                    841,
+                    920
+                ]
+            ],
+            "resolved": [
+                [
+                    836,
+                    925
+                ]
+            ],
+            "aligned-regions": "1-90,836-925",
+            "cond-evalue": 4e-51,
+            "indp-evalue": 2e-44
+        },
+        {
+            "match-id": "3.40.220.10-FF-000008",
+            "score": 279.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1020,
+                    1197
+                ]
+            ],
+            "trimmed": [
+                [
+                    1025,
+                    1192
+                ]
+            ],
+            "resolved": [
+                [
+                    1020,
+                    1197
+                ]
+            ],
+            "aligned-regions": "5-173,1024-1192",
+            "cond-evalue": 1.6000000000000002e-87,
+            "indp-evalue": 8.200000000000001e-81
+        },
+        {
+            "match-id": "3.40.220.30-FF-000001",
+            "score": 202.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1231,
+                    1361
+                ]
+            ],
+            "trimmed": [
+                [
+                    1236,
+                    1356
+                ]
+            ],
+            "resolved": [
+                [
+                    1231,
+                    1361
+                ]
+            ],
+            "aligned-regions": "1-128,1231-1358",
+            "cond-evalue": 3.2e-64,
+            "indp-evalue": 1.6e-57
+        },
+        {
+            "match-id": "3.40.220.20-FF-000001",
+            "score": 237.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1367,
+                    1494
+                ]
+            ],
+            "trimmed": [
+                [
+                    1372,
+                    1489
+                ]
+            ],
+            "resolved": [
+                [
+                    1367,
+                    1494
+                ]
+            ],
+            "aligned-regions": "1-128,1367-1494",
+            "cond-evalue": 4.0000000000000005e-75,
+            "indp-evalue": 2e-68
+        },
+        {
+            "match-id": "3.40.30.150-FF-000001",
+            "score": 104.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1496,
+                    1561
+                ]
+            ],
+            "trimmed": [
+                [
+                    1501,
+                    1556
+                ]
+            ],
+            "resolved": [
+                [
+                    1496,
+                    1561
+                ]
+            ],
+            "aligned-regions": "1-44,1496-1539;46-67,1540-1561",
+            "cond-evalue": 1.8e-34,
+            "indp-evalue": 9.1e-28
+        },
+        {
+            "match-id": "3.10.20.540-FF-000001",
+            "score": 130.9,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1563,
+                    1620
+                ]
+            ],
+            "trimmed": [
+                [
+                    1568,
+                    1615
+                ]
+            ],
+            "resolved": [
+                [
+                    1563,
+                    1620
+                ]
+            ],
+            "aligned-regions": "1-58,1563-1620",
+            "cond-evalue": 1.2e-42,
+            "indp-evalue": 5.8e-36
+        },
+        {
+            "match-id": "1.10.8.1190-FF-000001",
+            "score": 237.2,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1621,
+                    1744
+                ]
+            ],
+            "trimmed": [
+                [
+                    1626,
+                    1739
+                ]
+            ],
+            "resolved": [
+                [
+                    1621,
+                    1744
+                ]
+            ],
+            "aligned-regions": "1-123,1621-1743",
+            "cond-evalue": 3.2e-75,
+            "indp-evalue": 1.6e-68
+        },
+        {
+            "match-id": "2.60.120.1680-FF-000001",
+            "score": 261.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1745,
+                    1888
+                ]
+            ],
+            "trimmed": [
+                [
+                    1750,
+                    1883
+                ]
+            ],
+            "resolved": [
+                [
+                    1745,
+                    1888
+                ]
+            ],
+            "aligned-regions": "1-143,1745-1887",
+            "cond-evalue": 3e-82,
+            "indp-evalue": 1.5e-75
+        },
+        {
+            "match-id": "3.40.50.11020-FF-000001",
+            "score": 227.8,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    1906,
+                    2021
+                ]
+            ],
+            "trimmed": [
+                [
+                    1911,
+                    2016
+                ]
+            ],
+            "resolved": [
+                [
+                    1906,
+                    2021
+                ]
+            ],
+            "aligned-regions": "1-116,1906-2021",
+            "cond-evalue": 2.4e-72,
+            "indp-evalue": 1.2e-65
+        },
+        {
+            "match-id": "1.10.150.420-FF-000001",
+            "score": 158.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3169,
+                    3263
+                ]
+            ],
+            "trimmed": [
+                [
+                    3174,
+                    3258
+                ]
+            ],
+            "resolved": [
+                [
+                    3169,
+                    3263
+                ]
+            ],
+            "aligned-regions": "2-28,3170-3196;29-93,3199-3263",
+            "cond-evalue": 7.6e-51,
+            "indp-evalue": 3.8e-44
+        },
+        {
+            "match-id": "2.40.10.10-FF-000033",
+            "score": 175.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3351,
+                    3455
+                ]
+            ],
+            "trimmed": [
+                [
+                    3356,
+                    3450
+                ]
+            ],
+            "resolved": [
+                [
+                    3351,
+                    3455
+                ]
+            ],
+            "aligned-regions": "14-106,3363-3455",
+            "cond-evalue": 3.8999999999999999e-56,
+            "indp-evalue": 1.9e-49
+        },
+        {
+            "match-id": "1.10.1840.10-FF-000001",
+            "score": 171.6,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3461,
+                    3569
+                ]
+            ],
+            "trimmed": [
+                [
+                    3466,
+                    3564
+                ]
+            ],
+            "resolved": [
+                [
+                    3461,
+                    3569
+                ]
+            ],
+            "aligned-regions": "1-50,3461-3510;51-72,3513-3534;73-106,3536-3569",
+            "cond-evalue": 5.6999999999999998e-55,
+            "indp-evalue": 2.9e-48
+        },
+        {
+            "match-id": "1.10.8.370-FF-000001",
+            "score": 154.1,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    3855,
+                    3940
+                ]
+            ],
+            "trimmed": [
+                [
+                    3860,
+                    3935
+                ]
+            ],
+            "resolved": [
+                [
+                    3855,
+                    3940
+                ]
+            ],
+            "aligned-regions": "1-86,3855-3940",
+            "cond-evalue": 1.0000000000000002e-49,
+            "indp-evalue": 5.199999999999999e-43
+        },
+        {
+            "match-id": "3.30.70.3540-FF-000001",
+            "score": 206.8,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    4042,
+                    4140
+                ]
+            ],
+            "trimmed": [
+                [
+                    4047,
+                    4135
+                ]
+            ],
+            "resolved": [
+                [
+                    4042,
+                    4139
+                ]
+            ],
+            "aligned-regions": "1-99,4042-4140",
+            "cond-evalue": 3.6e-66,
+            "indp-evalue": 1.8e-59
+        },
+        {
+            "match-id": "2.40.10.250-FF-000001",
+            "score": 195.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    4139,
+                    4253
+                ]
+            ],
+            "trimmed": [
+                [
+                    4144,
+                    4248
+                ]
+            ],
+            "resolved": [
+                [
+                    4140,
+                    4253
+                ]
+            ],
+            "aligned-regions": "1-25,4139-4163;26-66,4165-4205;67-112,4208-4253",
+            "cond-evalue": 2.9999999999999999e-62,
+            "indp-evalue": 1.4999999999999999e-55
+        },
+        {
+            "match-id": "3.40.50.300-FF-001139",
+            "score": 358.1,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    5578,
+                    5750
+                ]
+            ],
+            "trimmed": [
+                [
+                    5583,
+                    5745
+                ]
+            ],
+            "resolved": [
+                [
+                    5578,
+                    5750
+                ]
+            ],
+            "aligned-regions": "1-173,5578-5750",
+            "cond-evalue": 4.3999999999999999e-112,
+            "indp-evalue": 4.399999999999999e-105
+        },
+        {
+            "match-id": "3.40.50.300-FF-001105",
+            "score": 316.0,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    5766,
+                    5924
+                ]
+            ],
+            "trimmed": [
+                [
+                    5771,
+                    5919
+                ]
+            ],
+            "resolved": [
+                [
+                    5766,
+                    5924
+                ]
+            ],
+            "aligned-regions": "2-155,5767-5920",
+            "cond-evalue": 1.8e-99,
+            "indp-evalue": 1.8e-92
+        },
+        {
+            "match-id": "3.30.160.820-FF-000001",
+            "score": 126.3,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    6451,
+                    6515
+                ]
+            ],
+            "trimmed": [
+                [
+                    6456,
+                    6510
+                ]
+            ],
+            "resolved": [
+                [
+                    6451,
+                    6515
+                ]
+            ],
+            "aligned-regions": "1-65,6451-6515",
+            "cond-evalue": 2.0999999999999999e-41,
+            "indp-evalue": 2.1e-34
+        },
+        {
+            "match-id": "3.40.50.11580-FF-000001",
+            "score": 247.4,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    6516,
+                    6641
+                ]
+            ],
+            "trimmed": [
+                [
+                    6521,
+                    6636
+                ]
+            ],
+            "resolved": [
+                [
+                    6516,
+                    6641
+                ]
+            ],
+            "aligned-regions": "1-126,6516-6641",
+            "cond-evalue": 1.4e-78,
+            "indp-evalue": 1.4e-71
+        },
+        {
+            "match-id": "3.40.50.150-FF-000162",
+            "score": 607.2,
+            "score-type": "bitscore",
+            "boundaries": [
+                [
+                    6799,
+                    7096
+                ]
+            ],
+            "trimmed": [
+                [
+                    6804,
+                    7091
+                ]
+            ],
+            "resolved": [
+                [
+                    6799,
+                    7096
+                ]
+            ],
+            "aligned-regions": "2-298,6800-7096",
+            "cond-evalue": 2.6e-187,
+            "indp-evalue": 2.6000000000000003e-180
+        }
     ]
 }
